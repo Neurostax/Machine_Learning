@@ -1,6 +1,6 @@
 # 🤖 Neurostax ML Chatbot - Complete Machine Learning Journey
 
-![INNOVATION INTELLIGENCE]()
+![INNOVATION INTELLIGENCE](Copy_of_INNOVATING_INTELLIGENCE-removebg-preview.png)
 
 ## 🧠 Introduction
 Welcome to the Neurostax Machine Learning Chatbot Project - an open-source initiative designed to democratize AI and foster collaborative development in conversational AI. This repository serves as both a learning platform and a collaborative space where developers, data scientists, and AI enthusiasts can contribute to building intelligent chatbot solutions.
