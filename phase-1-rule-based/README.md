@@ -22,7 +22,7 @@ A rule-based chatbot follows predetermined rules and patterns to generate respon
 ## 🛠️ Implementation
 
 ### Basic Architecture
-```python
+```
 class RuleBasedChatbot:
     def __init__(self):
         self.rules = {
@@ -43,7 +43,7 @@ class RuleBasedChatbot:
                 if pattern in user_input:
                     return intent
         return None
-
+```
 ## Start by first visiting the Example folder 
 In the examples folder , Go through the .md file  documentation understand how a rule based chatbot works and the run the example to interact with it .
 
@@ -74,7 +74,7 @@ python sample_bot.py
 
 ### After running and seeing how it works you can try to implement the logic on the code Bot.py 
 
-
+```
 # 💻 Hands-On Exercise
 ## Exercise 1: Basic Rule Bot
 Create a simple chatbot that can handle:
