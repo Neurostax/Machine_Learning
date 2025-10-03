@@ -8,7 +8,7 @@
 
 ### `/phase-2-ml-intent/README.md`
 
-```markdown
+
 # Phase 2: ML-Powered Intent Classification
 
 ## 🎯 Learning Objectives
@@ -61,7 +61,7 @@ We'll use intent-based datasets:
 
 
 
-
+```
 
 # 📋 Assignment
 Part 1: Compare ML Algorithms
