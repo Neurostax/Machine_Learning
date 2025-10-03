@@ -140,24 +140,29 @@ The chatbot project is built with a **layered architecture**, combining tools an
 
 ## 📁 Project Structure
 
+
+```bash
 chatbot-learning-path/
-├── phase-1-rule-based/
-│   ├── README.md
-│   ├── requirements.txt
-│   └── examples/
-├── phase-2-ml-intent/
-│   ├── README.md
-│   ├── requirements.txt
-│   └── datasets/
-├── phase-3-transformers/
-│   ├── README.md
-│   ├── requirements.txt
-│   └── models/
-└── final-project/
-    ├── README.md
-    └── requirements.txt
+├── phase-1-rule-based/          # Foundations: Rule-based NLP chatbot
+│   ├── README.md                # Documentation for Phase 1
+│   ├── requirements.txt         # Dependencies for Phase 1
+│   └── examples/                # Example 
+│
+├── phase-2-ml-intent/           # ML-powered chatbot with intent classification
+│   ├── README.md                # Documentation for Phase 2
+│   ├── requirements.txt         # Dependencies for Phase 2
+│   └── datasets/                
+│
+├── phase-3-transformers/        
+│   ├── README.md                # Documentation for Phase 3
+│   ├── requirements.txt         # Dependencies for Phase 3
+│   └── models/                  
+│
+└── project/               
+    ├── README.md                
+    └── requirements.txt         # Dependencies for final build
 
-
+```
 
 # 💡 Learning Path  
 
