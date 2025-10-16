@@ -116,13 +116,15 @@ Less memory usage
 More efficient pattern matching
 
 2. Improved Pattern Recognition
-```
+
 # User might say:
+```
 "Can you help me with walking?"
 "I need help with walked exercises"
 "Walking assistance required"
-
+```
 # All get stemmed to:
+```
 ["help", "walk"] → Triggers appropriate intent
 ```
 
@@ -156,10 +158,10 @@ Robust to variations	Not perfect for all cases
 Phase 2: PorterStemmer (Simple but Aggressive)
 python
 
-```
+
 from nltk.stem import PorterStemmer
 stemmer = PorterStemmer()
-
+```
 "running" → "run"
 "happily" → "happili"  # ❌ Not a real word
 "better" → "better"    # ❌ No change
@@ -167,11 +169,12 @@ stemmer = PorterStemmer()
 ```
 # In the next phase 
 ## Phase 3: WordNet Lemmatizer (Intelligent and Linguistic)
-```
+
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 
 # Examples:
+```
 "running" → "run"      # ✅
 "happily" → "happy"    # ✅ Real word
 "better" → "good"      # ✅ Handles comparatives
@@ -179,7 +182,7 @@ lemmatizer = WordNetLemmatizer()
 ```
 
 
-```
+
 
 # 📋 Assignment
 Part 1: Compare ML Algorithms
