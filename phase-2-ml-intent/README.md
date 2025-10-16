@@ -1,14 +1,14 @@
 # In this Phase 2, we'll add Machine Learning to automatically understand user intent!
 
-### `/phase-1-rule-based/requirements.txt`
-
+```
+ /phase-1-rule-based/requirements.txt
+```
 
 
 ## 🤖 Phase 2: ML-Powered Intent Classification
-
-### `/phase-2-ml-intent/README.md`
-
-
+```
+ /phase-2-ml-intent/README.md
+```
 # Phase 2: ML-Powered Intent Classification
 
 ## 🎯 Learning Objectives
@@ -57,7 +57,7 @@ We'll use intent-based datasets:
     ]
 }
 
-
+```
 
 # In this phase we use porterstemmer to show you how stemming works  though it's not the best
 
