@@ -374,3 +374,9 @@ Follow these steps to kick off your journey with the **Neurostax Machine Learnin
 
 This repository is maintained with ❤️ by the **Neurostax Machine Learning Community**.  
 Together, we're building the future of **AI and Machine learning**.  
+
+
+
+MIT License
+
+Copyright (c) 2025 Neurostax
