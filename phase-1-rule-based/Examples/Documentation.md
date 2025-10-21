@@ -21,7 +21,7 @@ The rules dictionary uses this format:
     'patterns': ['list', 'of', 'trigger', 'phrases'],
     'responses': ['response1', 'response2', 'response3']
 }
-
+```
 
 
 
@@ -136,7 +136,7 @@ Humor: Multiple joke options
 
 
 # Example Conversation
-
+```
 Bot: Hello! I'm your intelligent conversation partner!
 You: hello
 Bot: Hello! It's wonderful to meet you!
@@ -146,3 +146,4 @@ You: tell me a joke
 Bot: Why don't scientists trust atoms? Because they make up everything!
 You: quit
 Bot: Goodbye! It was wonderful chatting with you, John!
+```
